@@ -1,0 +1,10 @@
+.idea
+
+*.xml
+
+bin
+
+.git
+
+/target
+
